@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Wayne and I'm a 19-year-old developer, currently studying Computer Science as a second-year student at the University of Toronto. Learn more about me at https://waynezhu6.github.io
+My name is Wayne and I'm a 19-year-old developer, currently studying Computer Science as a second-year student at the University of Toronto. Learn more about me at https://waynezhu.ca
 
 I'm currently looking for a 2021 Summer Internship!
 
