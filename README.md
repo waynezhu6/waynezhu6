@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Wayne and I'm a 19-year-old developer, currently studying Computer Science as a third-year student at the University of Toronto. Learn more about me at https://waynezhu.ca
+My name is Wayne and I'm a 20-year-old developer, currently studying Computer Science as a fourth-year student at the University of Toronto. Learn more about me at https://waynezhu.ca
 
-I'm currently looking for a 2022 Summer Internship!
+I'm currently looking for a 2023 Winter/Spring Internship!
 
 <!--
 **waynezhu6/waynezhu6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
