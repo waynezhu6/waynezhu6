@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Wayne and I'm a 22-year-old developer, currently studying Computer Science as a fourth-year student at the University of Toronto. Learn more about me at https://waynezhu6.github.io
+My name is Wayne and I'm a 24-year-old SWE, currently working on Experimentation at DoorDash, and formerly a CS student at the University of Toronto. Learn more about me at https://waynezhu6.github.io
 
-I'm currently looking for a 2024 New Grad position!
+I'm currently looking for a backend SWE position!
 
 <!--
 **waynezhu6/waynezhu6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
